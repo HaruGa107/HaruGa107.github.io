@@ -1,1 +1,1 @@
-# HaruGa107.github.io
+# haruga107.github.io
