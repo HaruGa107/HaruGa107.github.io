@@ -210,7 +210,7 @@ img {
 --------------------------------------------------------------------*/
 .top {
   height: 648px;
-  background: url(/img/mv.png) center center/cover;
+  background: url(https://haruga107.github.io/deitora/img/mv.png) center center/cover;
 }
 
 @media screen and (max-width: 767px) {
