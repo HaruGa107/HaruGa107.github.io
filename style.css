@@ -1484,7 +1484,8 @@ img {
 
 @media screen and (max-width: 767px) {
   .contact-form-input-select select {
-    padding: 0 193px 0 12px;
+    padding: 0 100px 0 12px;
+    width: 100%;
     font-size: 14px;
     line-height: 14px;
   }
