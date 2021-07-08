@@ -111,7 +111,7 @@
 /* 右から左の場合 */
 /* ヘッダーも同時に動かす場合は指定 */
 .js-hiraku-offcanvas-body-right .js-hiraku-header-fixed {
-	margin-left: -77%;
+	margin-left: 0;
 }
 
 .js-hiraku-offcanvas-body-left .js-hiraku-header-fixed {
