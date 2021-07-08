@@ -25,9 +25,35 @@
   <script src="https://haruga107.github.io/deitora/wow.min.js"></script>
   <link rel="stylesheet" href="https://haruga107.github.io/deitora/animate.css">
 
+  <!-- Swiper JS -->
+  <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 
+  <!-- Initialize Swiper -->
+  <script>
+    var swiper = new Swiper(".mySwiper", {
+      slidesPerView: 3,
+      spaceBetween: 30,
+      pagination: {
+        el: ".swiper-pagination",
+        clickable: true,
+      },
+    });
+  </script>
+
+  <script>
+    $(".offcanvas-left").hiraku({
+        btn:"#offcanvas-btn-right",
+        direction:"right"
+    });
+  </script>
+
+  
   <!-- original -->
+  <script src="https://haruga107.github.io/deitora/script.js"></script>
   <link rel="stylesheet" href="https://haruga107.github.io/deitora/style.css"/>
+  
+
+
 
 </head>
 
@@ -564,35 +590,6 @@
   <!-- /.footer -->
 
   <div class="to-top"><a href="#"><img src="./img/totop@2x.png" alt=""></a></div>
-
-
-
-
-
-  <!-- Swiper JS -->
-  <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
-
-  <!-- Initialize Swiper -->
-  <script>
-    var swiper = new Swiper(".mySwiper", {
-      slidesPerView: 3,
-      spaceBetween: 30,
-      pagination: {
-        el: ".swiper-pagination",
-        clickable: true,
-      },
-    });
-  </script>
-
-  <script>
-    $(".offcanvas-left").hiraku({
-        btn:"#offcanvas-btn-right",
-        direction:"right"
-    });
-  </script>
-
-  <script src="https://haruga107.github.io/deitora/script.js"></script>
-
 
 
 </body>
