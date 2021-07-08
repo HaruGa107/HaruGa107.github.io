@@ -215,7 +215,7 @@ img {
 
 @media screen and (max-width: 767px) {
   .top {
-    background: url(../img/mv.png)/cover;
+    background: url(https://haruga107.github.io/deitora/img/mv.png)/cover;
     background-position: 22% 50%;
     height: 667px;
   }
@@ -408,7 +408,7 @@ img {
 .news-item::after {
   content: "";
   position: absolute;
-  background: url(../img/news-arrow-1@2x.png) center center/contain no-repeat;
+  background: url(https://haruga107.github.io/deitora/img/news-arrow-1@2x.png) center center/contain no-repeat;
   width: 14px;
   height: 23px;
   top: 50%;
@@ -1023,7 +1023,7 @@ img {
 .faqs {
   position: relative;
   z-index: 1;
-  background: url(../img/qa-bg.png) center center/cover;
+  background: url(https://haruga107.github.io/deitora/img/qa-bg.png) center center/cover;
   padding-bottom: 120px;
 }
 
@@ -1305,7 +1305,7 @@ img {
 /* contact
 --------------------------------------------------------------------*/
 .contact {
-  background: url(../img/contact-bg.png) top center/cover;
+  background: url(https://haruga107.github.io/deitora/img/contact-bg.png) top center/cover;
   padding: 60px 0;
 }
 
@@ -1330,7 +1330,7 @@ img {
 
 .contact-head {
   height: 196px;
-  background: url(../img/contact1.png) center center/cover;
+  background: url(https://haruga107.github.io/deitora/img/contact1.png) center center/cover;
   border-radius: 12px 12px 0 0;
 }
 
